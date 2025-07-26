@@ -26,6 +26,7 @@ body{
   font-optical-sizing: auto;
   font-weight: 400px;
   font-style: normal;
+  height: 50px;
   
 }
 
@@ -44,6 +45,12 @@ body{
     list-style-type: none;
     font-size: 18px;
     color: #666666;
+
+}
+
+
+.header-top a{
+    color: inherit;
 
 }
 
