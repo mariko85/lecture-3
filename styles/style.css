@@ -345,8 +345,10 @@ table, tr,td{
     width: 100px;
 
 border-radius: 20px;
-    margin: 0 auto;
+ 
     margin-left: 20px;
      margin-right: 20px;
+     font-size: 35px;
+     align-items: center;
 
 }
